@@ -1,7 +1,7 @@
 function SecurityLoader(redirection,key)
-    if redirection == "Scripts\Print1" then
+    if redirection == "Scripts/Print1" then
         print("1")
-    elseif redirection == "Scripts\Print2" then
+    elseif redirection == "Scripts/Print2" then
         print("2")
     end
 end
